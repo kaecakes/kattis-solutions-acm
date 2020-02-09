@@ -1,5 +1,6 @@
-# kattis-solutions-acm
-Solutions to weekly programming challanges assigned to the ACM Programming Team at UH Hilo
+# kattis-solutions
+
+Solutions to weekly programming challanges assigned to the Programming Team at UH Hilo
 <hr>
 Links to the problems I have posted solutions for:<br>
 <ul>
