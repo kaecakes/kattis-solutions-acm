@@ -2,7 +2,7 @@
 
 Solutions to weekly programming challanges assigned to the Programming Team at UH Hilo
 <hr>
-Links to the problems I have posted solutions for:<br>
+Solved Kattis Problems:<br>
 <ul>
   <li><a href="https://open.kattis.com/problems/backspace">Backspace</a></li>
   <li><a href="https://open.kattis.com/problems/bits">Bits</a></li>
