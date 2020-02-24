@@ -9,7 +9,8 @@ Solved Kattis Problems:<br>
   <li><a href="https://open.kattis.com/problems/candydivision">Candy Division</a></li>
   <li><a href="https://open.kattis.com/problems/cd">CD</a></li>
   <li><a href="https://open.kattis.com/problems/guessthedatastructure">I Can Guess the Data Structure!</a></li>
-  <li><a href="https://open.kattis.com/problems/natjecanje">Natjecanje</li></li>
-  <li><a href="https://open.kattis.com/problems/sortofsorting">Sort of Sorting</li></li>
-  <li><a href="https://open.kattis.com/problems/owlandfox">The Owl and the Fox</li></li>
+  <li><a href="https://open.kattis.com/problems/natjecanje">Natjecanje</a></li>
+  <li><a href="https://open.kattis.com/problems/server">Server</a></li>
+  <li><a href="https://open.kattis.com/problems/sortofsorting">Sort of Sorting</a></li>
+  <li><a href="https://open.kattis.com/problems/owlandfox">The Owl and the Fox</a></li>
 </ul>
