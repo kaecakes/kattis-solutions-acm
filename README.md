@@ -8,6 +8,7 @@ Solved Kattis Problems:<br>
   <li><a href="https://open.kattis.com/problems/bits">Bits</a></li>
   <li><a href="https://open.kattis.com/problems/candydivision">Candy Division</a></li>
   <li><a href="https://open.kattis.com/problems/cd">CD</a></li>
+  <li><a href="https://open.kattis.com/problems/froshweek2">Frosh Week</a></li>
   <li><a href="https://open.kattis.com/problems/guessthedatastructure">I Can Guess the Data Structure!</a></li>
   <li><a href="https://open.kattis.com/problems/natjecanje">Natjecanje</a></li>
   <li><a href="https://open.kattis.com/problems/server">Server</a></li>
